@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC3514e88bca2aD82723ED859a895F3303897c0a9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Cronos Testnet",
+    "SYMBOL": "TCRO",
+    "ID": 338
+  },
+  "NFT_NAME": "Zpunkz",
+  "SYMBOL": "Zpunkz",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 68000000000000000,
+  "DISPLAY_COST": 0.068,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
